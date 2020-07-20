@@ -23,9 +23,9 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! For
 
 #### Precipitation Analysis
 
-* Plotting the precipitation the last 12 months (8/23/2016 to 8/23/2017)
+* Plot the precipitation the last 12 months (8/23/2016 to 8/23/2017)
 ![precipitation](Images/precipitation.png)
-* Printing the summary statistics for the precipitation data.
+* Print the summary statistics for the precipitation data.
 
 #### Station Analysis
 
